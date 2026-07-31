@@ -265,13 +265,7 @@ Semi-Finalist
 
 ---
 
-# 👀 Profile Views
 
-<p align="center">
-
-![](https://komarev.com/ghpvc/?username=HariHaraRamji&style=for-the-badge)
-
-</p>
 
 ---
 
