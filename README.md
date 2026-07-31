@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="banner.png" width="100%" alt="Hari Hara Ramji Banner"/>
+<img src="./welcome.gif" width="700" alt="Welcome Animation"/>
+
+</div>
+
 
 # 👋 Hello, I'm Hari Hara Ramji N
 
