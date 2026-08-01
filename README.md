@@ -267,23 +267,6 @@ Semi-Finalist
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HariHaraRamji&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariHaraRamji&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HariHaraRamji&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🤝 Connect With Me
 
