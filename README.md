@@ -16,7 +16,6 @@
 ---
 
 # 💻 Developer Profile
-## 💻 Developer Profile
 
 | **Attribute** | **Details** |
 |--------------|-------------|
