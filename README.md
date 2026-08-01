@@ -58,7 +58,7 @@
 
 ---
 
-# 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
 <table>
 
@@ -66,37 +66,57 @@
 
 <td width="50%" valign="top">
 
-## 🌐 Accessibility Helper
+## 🌐 AccessHelper
 
-An AI-powered accessibility platform that helps visually impaired users through image understanding, voice narration, speech recognition, and browser notifications.
+### AI-Powered Accessibility Platform
 
-### ⚙️ Tech Stack
+Empowering visually impaired, hearing impaired, and elderly users through real-time AI assistance.
+
+### ✨ Highlights
+
+- 👁️ Real-time scene understanding using Google Gemini Vision AI
+- 🔊 AI-powered sound detection for emergency alerts
+- 🗣️ Speech-to-Text & Text-to-Speech assistance
+- 💊 Smart medicine reminders with voice notifications
+- 📱 Fully responsive web application
+
+### 🛠 Tech Stack
 
 `React.js`
-
 `Node.js`
-
 `Google Gemini API`
-
 `JavaScript`
+`AI`
+
+🔗 **Live Demo**
+
+https://accessibility-helper.vercel.app
 
 </td>
 
 <td width="50%" valign="top">
 
-## 📡 Self-Healing Communication Node
+## 📡 Self-Healing IoT Mesh Network
 
-An IoT Mesh Network using ESP32 and NRF24L01 capable of automatic fault detection, rerouting, and reliable wireless communication.
+### Fault-Tolerant Wireless Communication System
 
-### ⚙️ Tech Stack
+An intelligent mesh network capable of automatically rerouting data whenever communication nodes fail.
+
+### ✨ Highlights
+
+- 🔄 Automatic fault detection & rerouting
+- 📡 ESP32 + NRF24L01 Mesh Network
+- 🌡️ Real-time environmental monitoring
+- ☁️ Cloud dashboard integration
+- 🛡️ Disaster-resilient Black Box node
+
+### 🛠 Tech Stack
 
 `ESP32`
-
 `NRF24L01`
-
-`IoT`
-
+`Arduino`
 `Embedded C`
+`IoT`
 
 </td>
 
@@ -106,19 +126,83 @@ An IoT Mesh Network using ESP32 and NRF24L01 capable of automatic fault detectio
 
 <td width="50%" valign="top">
 
-## 🤖 AI Learning Projects
+## ❤️ IoT Health Monitoring System
 
-Building intelligent applications using Gemini APIs, LLM integration, workflow automation, and modern AI technologies.
+### Smart Remote Healthcare Platform
 
-### ⚙️ Tech Stack
+A real-time IoT solution for monitoring patient health and sending data to the cloud.
 
-`Python`
+### ✨ Highlights
 
+- ❤️ Heart Rate Monitoring
+- 🌡️ Temperature Monitoring
+- ☁️ ThingSpeak Cloud Dashboard
+- 📶 ESP8266 Wi-Fi Communication
+- 🚨 Automatic Health Alerts
+
+### 🛠 Tech Stack
+
+`Arduino`
+`ESP8266`
+`ThingSpeak`
+`Embedded C`
+`IoT`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🤖 TwinMind AI
+
+### Personal AI Automation Operating System
+
+An AI-powered productivity platform that converts natural language into intelligent automated workflows.
+
+### ✨ Highlights
+
+- 🧠 AI Agents for Coding, Learning & Research
+- ⚡ Natural Language Automation
+- 🔗 Gmail, Drive, GitHub & Notion Integration
+- 📊 Workflow Analytics Dashboard
+- ☁️ Cloud-Based AI Automation
+
+### 🛠 Tech Stack
+
+`React`
+`FastAPI`
 `Gemini API`
+`LangGraph`
+`PostgreSQL`
 
-`LLMs`
+</td>
 
-`n8n`
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## ♟️ Ethereal Chess AI
+
+### Intelligent Browser Chess Engine
+
+A premium chess game with a custom-built AI opponent developed entirely using Vanilla JavaScript.
+
+### ✨ Highlights
+
+- ♟️ Minimax AI with Alpha-Beta Pruning
+- 🎯 Three Difficulty Levels
+- 👑 Complete Official Chess Rules
+- 📜 Move History
+- 📱 Responsive Premium UI
+
+### 🛠 Tech Stack
+
+`JavaScript`
+`HTML`
+`CSS`
+`Minimax`
+`Alpha-Beta Pruning`
 
 </td>
 
@@ -126,19 +210,19 @@ Building intelligent applications using Gemini APIs, LLM integration, workflow a
 
 ## 🚀 More Projects Coming Soon
 
-Currently exploring:
+Currently building innovative software in
 
-- Java Backend Development
-- AI Applications
-- Software Engineering
-- Full Stack Development
+- 🤖 Artificial Intelligence
+- ☕ Java Backend Development
+- 🌐 Full Stack Development
+- 📡 Internet of Things
+- 🧠 Intelligent Automation
 
 </td>
 
 </tr>
 
 </table>
-
 ---
 
 # 🏆 Certifications & Achievements
