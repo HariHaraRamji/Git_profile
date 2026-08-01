@@ -5,13 +5,33 @@
 </div>
 
 
+<table>
+<tr>
+
+<td width="65%" valign="top">
+
 # 👋 Hello, I'm Hari Hara Ramji N
 
-### Software Engineer | Java Developer | AI & Full Stack Enthusiast
+### Software Engineer • Java Developer • AI & Full Stack Enthusiast
 
-*"Building intelligent software that solves real-world problems."*
+🎓 **Final-Year B.E. Electronics & Communication Engineering Student** at **V.S.B Engineering College, Tamil Nadu**.
 
-</div>
+💡 Passionate about building **AI-powered applications, scalable software solutions, and IoT systems** that solve real-world problems.
+
+🚀 Currently focused on **Java, Data Structures & Algorithms, Full Stack Development, Artificial Intelligence, and System Design** while preparing for Software Engineering roles.
+
+> *"Building intelligent software that solves real-world problems."*
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="developer.gif" width="320"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
