@@ -16,34 +16,22 @@
 ---
 
 # 💻 Developer Profile
+## 💻 Developer Profile
 
-public final class HariHaraRamji {
-
-    private final String role =
-            "Software Engineer";
-
-    private final String specialization =
-            "Java • AI • Full Stack Development";
-
-    private final String[] strengths = {
-            "Problem Solving",
-            "Data Structures & Algorithms",
-            "Backend Development",
-            "Artificial Intelligence",
-            "IoT Solutions"
-    };
-
-    private final String[] featuredProjects = {
-            "Accessibility Helper",
-            "Self-Healing Communication Node"
-    };
-
-    private final String philosophy =
-            "Clean code. Continuous learning. Meaningful impact.";
-
-    private final String careerObjective =
-            "Building scalable software solutions that improve everyday life.";
-}
+| **Attribute** | **Details** |
+|--------------|-------------|
+| 👨‍💻 **Name** | Hari Hara Ramji N |
+| 💼 **Role** | Software Engineer |
+| 🎓 **Education** | B.E. Electronics & Communication Engineering |
+| 📍 **Location** | Tamil Nadu, India |
+| 💻 **Languages** | Java, SQL, HTML, CSS, JavaScript |
+| 🚀 **Core Skills** | Data Structures & Algorithms, OOP, Problem Solving |
+| 🛠️ **Technologies** | React, Node.js, AI, IoT, Git |
+| 🔬 **Current Focus** | Java Backend Development, AI Applications, Full Stack Development |
+| 📂 **Featured Projects** | Accessibility Helper, Self-Healing Communication Node |
+| 🌱 **Currently Learning** | Spring Boot, Advanced DSA, System Design |
+| 🎯 **Career Goal** | Build scalable software solutions that create real-world impact. |
+| 📬 **Open To** | Software Engineering Internships & Full-Time Opportunities |
 
 # 📐 Technology Blueprint
 
