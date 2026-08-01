@@ -17,42 +17,33 @@
 
 # 💻 Developer Profile
 
-```java
-public class HariHaraRamji {
+public final class HariHaraRamji {
 
-    String role = "Software Engineer";
+    private final String role =
+            "Software Engineer";
 
-    String education =
-        "B.E. Electronics & Communication Engineering";
+    private final String specialization =
+            "Java • AI • Full Stack Development";
 
-    String college =
-        "V.S.B Engineering College";
-
-    String location =
-        "Karur, Tamil Nadu, India";
-
-    double cgpa = 7.84;
-
-    String[] specialization = {
-        "Java Development",
-        "Data Structures & Algorithms",
-        "Artificial Intelligence",
-        "Full Stack Development"
+    private final String[] strengths = {
+            "Problem Solving",
+            "Data Structures & Algorithms",
+            "Backend Development",
+            "Artificial Intelligence",
+            "IoT Solutions"
     };
 
-    String[] currentlyBuilding = {
-        "Accessibility Helper",
-        "Self-Healing IoT Mesh Network",
-        "AI Personal Projects"
+    private final String[] featuredProjects = {
+            "Accessibility Helper",
+            "Self-Healing Communication Node"
     };
 
-    String mission =
-        "Create software that improves people's lives through innovation.";
+    private final String philosophy =
+            "Clean code. Continuous learning. Meaningful impact.";
 
+    private final String careerObjective =
+            "Building scalable software solutions that improve everyday life.";
 }
-```
-
----
 
 # 📐 Technology Blueprint
 
