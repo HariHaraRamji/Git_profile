@@ -25,8 +25,7 @@
 </td>
 
 <td width="35%" align="center">
-
-<img src="developer.gif" width="320"/>
+<img src="./assets/software-engineer.gif" width="320"/>
 
 </td>
 
